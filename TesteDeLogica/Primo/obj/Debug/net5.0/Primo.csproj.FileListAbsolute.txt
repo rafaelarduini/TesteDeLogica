@@ -1,0 +1,16 @@
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.csproj.AssemblyReference.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.AssemblyInfoInputs.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.AssemblyInfo.cs
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.exe
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.deps.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.runtimeconfig.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.runtimeconfig.dev.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\ref\Primo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\bin\Debug\net5.0\Primo.pdb
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\ref\Primo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.pdb
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Primo\obj\Debug\net5.0\Primo.genruntimeconfig.cache

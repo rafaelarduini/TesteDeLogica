@@ -1,0 +1,16 @@
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.exe
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.deps.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.dev.json
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\ref\Palindromo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\bin\Debug\net5.0\Palindromo.pdb
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.csproj.AssemblyReference.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfo.cs
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\ref\Palindromo.dll
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.pdb
+C:\Users\rafael.arduini\source\repos\TesteDeLogica\Palindromo\obj\Debug\net5.0\Palindromo.genruntimeconfig.cache

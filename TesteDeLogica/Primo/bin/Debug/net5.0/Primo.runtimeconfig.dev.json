@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rafael.arduini\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rafael.arduini\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MovimentoDoBot/1.0.0": {
+        "runtime": {
+          "MovimentoDoBot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovimentoDoBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
